@@ -1,0 +1,2 @@
+SetEnv PHP_VALUE "log_errors = On"
+SetEnv PHP_ADMIN_VALUE "display_errors = On"
